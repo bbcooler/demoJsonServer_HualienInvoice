@@ -1,8 +1,8 @@
 {
   "invoice": {
     "donated": 100,
-    "available": 20,
-    "require": 7,
+    "available": 14,
+    "hasPlayed": 1,
     "result": true
   }
 }
